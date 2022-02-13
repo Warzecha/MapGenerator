@@ -1,6 +1,6 @@
-const HEIGHT = 320;
+const HEIGHT = 600;
 const WIDTH = 800;
-const MAP_WIDTH = 640;
+const MAP_WIDTH = 600;
 
 
 const shallowWaterDepth = 0.01;
